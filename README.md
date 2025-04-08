@@ -29,9 +29,9 @@ pip install -r requirements.txt
    - 
 3. Run the script:
 '''bash
-python detect.py
+python Main.py
 By default, it uses webcam.
-To use a video file instead, change the line in detect.py - cap = cv.VideoCapture("path/to/video.mp4") 
+To use a video file instead, change the line in Main.py - cap = cv.VideoCapture("path/to/video.mp4") 
 
 Results
  ![image](https://github.com/user-attachments/assets/5e1e9615-af6b-42ca-ba72-5e8ab9581102)
