@@ -27,7 +27,9 @@ pip install -r requirements.txt
 python detect.py --source path/to/image_or_video
 
 Results
-Include sample results: ![image](https://github.com/user-attachments/assets/5e1e9615-af6b-42ca-ba72-5e8ab9581102)
+ ![image](https://github.com/user-attachments/assets/5e1e9615-af6b-42ca-ba72-5e8ab9581102)
+![image](https://github.com/user-attachments/assets/c78648d3-5dea-43ea-b6bc-4e4f5692ebca)
+
 
 
 Contributors
