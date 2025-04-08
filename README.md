@@ -16,14 +16,22 @@ This project performs real-time object detection using the YOLOv3 model with Ope
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Revathi/Object_Detection.git
+   git clone https://github.com/Revathi8814/Object_Detection.git
    cd Object_Detection
 
 2. Install dependencies:
 pip install -r requirements.txt
 
+3. Download YOLO files:
+   - YOLOv3 weights
+   - YOLOv5 config
+   - COCO class names
+   - 
 3. Run the script:
-python detect.py --source path/to/image_or_video
+'''bash
+python detect.py
+By default, it uses webcam.
+To use a video file instead, change the line in detect.py - cap = cv.VideoCapture("path/to/video.mp4") 
 
 Results
  ![image](https://github.com/user-attachments/assets/5e1e9615-af6b-42ca-ba72-5e8ab9581102)
