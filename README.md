@@ -26,7 +26,7 @@ pip install -r requirements.txt
    - YOLOv3 weights
    - YOLOv5 config
    - COCO class names
-   - 
+     
 3. Run the script:
 '''bash
 python Main.py
