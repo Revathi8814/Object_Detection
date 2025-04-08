@@ -1,6 +1,5 @@
 # Object_Detection
-This project implements object detection using YOLOv8 and OpenCV.
-
+This project performs real-time object detection using the YOLOv3 model with OpenCV in Python. It processes video input (from file or webcam), detects objects using pre-trained weights on the COCO dataset, and displays bounding boxes with class labels. The YOLO model is loaded using OpenCV’s DNN module, and Non-Maximum Suppression is used to remove overlapping detections. Each detected object is shown with a colored box and label on the video frame.
 ## Features
 - Real-time object detection
 - Supports custom videos or webcam
