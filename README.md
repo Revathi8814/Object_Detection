@@ -16,7 +16,7 @@ This project performs real-time object detection using the YOLOv3 model with Ope
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Object_Detection.git
+   git clone https://github.com/Revathi/Object_Detection.git
    cd Object_Detection
 
 2. Install dependencies:
